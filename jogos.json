@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Roblox",
+        "image": "images/roblox.jpg"
+    },
+    {
+        "name": "Minecraft",
+        "image": "images/minecraft.jpg"
+    },
+    {
+        "name": "Fortnite",
+        "image": "images/fortnite.jpg"
+    },
+    {
+        "name": "GTA V",
+        "image": "images/gta.webp"
+    },
+    {
+        "name": "League of Legends",
+        "image": "images/lol.jpg"
+    },
+    {
+        "name": "Valorant",
+        "image": "images/valorante.jpg"
+    },
+    {
+        "name": "Forza Horizon",
+        "image": "images/forza.webp"
+    },
+    {
+        "name": "CSgo",
+        "image": "images/csgo.jpg"
+    },
+    {
+        "name": "Among US",
+        "image": "images/amongus.jpg"
+    }
+]
